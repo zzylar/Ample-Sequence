@@ -69,7 +69,6 @@ public class Sequencer implements Runnable{
 
     @Override
     public void run() {
-
         startSequence(buttons, this.sound);
     }
 }

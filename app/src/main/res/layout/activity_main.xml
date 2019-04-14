@@ -10,6 +10,290 @@
     android:gravity="center"
     android:orientation="vertical">
 
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ToggleButton
+            android:id="@+id/sp1"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp2"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp3"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp4"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp5"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp6"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp7"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp8"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp9"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp10"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp11"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp12"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp13"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp14"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp15"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sp16"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ToggleButton
+            android:id="@+id/sptwo1"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo2"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo3"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo4"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo5"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo6"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo7"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo8"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo9"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo10"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo11"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo12"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo13"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo14"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo15"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/sptwo16"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ToggleButton
+            android:id="@+id/spthree1"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree2"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree3"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree4"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree5"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree6"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree7"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree8"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree9"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree10"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree11"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree12"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree13"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree14"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree15"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/spthree16"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ToggleButton
+            android:id="@+id/bd1"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd2"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd3"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd4"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd5"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd6"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd7"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd8"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd9"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd10"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd11"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd12"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd13"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd14"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd15"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/bd16"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+    </LinearLayout>
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -17,90 +301,298 @@
 
         <ToggleButton
             android:id="@+id/clh1"
-            android:layout_width="25dp"
-            android:layout_height="25dp"/>
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
         <ToggleButton
             android:id="@+id/clh2"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
         <ToggleButton
             android:id="@+id/clh3"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
         <ToggleButton
             android:id="@+id/clh4"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
         <ToggleButton
             android:id="@+id/clh5"
-            android:layout_width="25dp"
-            android:layout_height="25dp"/>
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
         <ToggleButton
             android:id="@+id/clh6"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
         <ToggleButton
             android:id="@+id/clh7"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
         <ToggleButton
             android:id="@+id/clh8"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
         <ToggleButton
             android:id="@+id/clh9"
-            android:layout_width="25dp"
-            android:layout_height="25dp"/>
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
         <ToggleButton
             android:id="@+id/clh10"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
         <ToggleButton
             android:id="@+id/clh11"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
         <ToggleButton
             android:id="@+id/clh12"
-            android:layout_width="25dp"
-            android:layout_height="25dp"/>
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
         <ToggleButton
             android:id="@+id/clh13"
-            android:layout_width="25dp"
-            android:layout_height="25dp"/>
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
         <ToggleButton
             android:id="@+id/clh14"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
         <ToggleButton
             android:id="@+id/clh15"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
         <ToggleButton
             android:id="@+id/clh16"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
+            android:layout_width="22dp"
+            android:layout_height="22dp" />
 
     </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
 
+        <ToggleButton
+            android:id="@+id/oph1"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph2"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph3"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph4"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph5"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph6"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph7"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph8"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph9"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph10"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph11"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph12"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph13"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph14"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph15"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/oph16"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ToggleButton
+            android:id="@+id/clp1"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp2"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp3"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp4"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp5"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp6"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp7"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp8"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp9"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp10"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp11"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp12"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp13"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp14"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp15"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/clp16"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ToggleButton
+            android:id="@+id/dance1"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance2"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance3"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance4"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance5"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance6"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance7"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance8"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance9"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance10"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance11"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance12"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance13"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance14"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance15"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+        <ToggleButton
+            android:id="@+id/dance16"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+
+    </LinearLayout>
     <Button
         android:id="@+id/play"
-        android:layout_width="match_parent"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:onClick="play"
         android:text="play" />
 
     <Button
         android:id="@+id/stop"
-        android:layout_width="match_parent"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:onClick="stop"
         android:text="stop" />
 
-    <Switch
-        android:id="@+id/switch1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Switch" />
+
 
 </LinearLayout>
 
