@@ -9,60 +9,98 @@
     android:padding="10dp"
     android:gravity="center"
     android:orientation="vertical">
+
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
-        <Button
-        android:onClick="playsound1"
-        android:layout_width="100dp"
-        android:layout_height="100dp" />
 
-        <Button
-            android:onClick="playsound2"
-            android:layout_width="100dp"
-            android:layout_height="100dp" />
-        <Button
-            android:onClick="playsound3"
-            android:layout_width="100dp"
-            android:layout_height="100dp" />
+        <ToggleButton
+            android:id="@+id/clh1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"/>
+        <ToggleButton
+            android:id="@+id/clh2"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+        <ToggleButton
+            android:id="@+id/clh3"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+        <ToggleButton
+            android:id="@+id/clh4"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+        <ToggleButton
+            android:id="@+id/clh5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"/>
+        <ToggleButton
+            android:id="@+id/clh6"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+        <ToggleButton
+            android:id="@+id/clh7"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+        <ToggleButton
+            android:id="@+id/clh8"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+        <ToggleButton
+            android:id="@+id/clh9"
+            android:layout_width="25dp"
+            android:layout_height="25dp"/>
+        <ToggleButton
+            android:id="@+id/clh10"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+        <ToggleButton
+            android:id="@+id/clh11"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+        <ToggleButton
+            android:id="@+id/clh12"
+            android:layout_width="25dp"
+            android:layout_height="25dp"/>
+        <ToggleButton
+            android:id="@+id/clh13"
+            android:layout_width="25dp"
+            android:layout_height="25dp"/>
+        <ToggleButton
+            android:id="@+id/clh14"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+        <ToggleButton
+            android:id="@+id/clh15"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+        <ToggleButton
+            android:id="@+id/clh16"
+            android:layout_width="25dp"
+            android:layout_height="25dp" />
+
     </LinearLayout>
-    <LinearLayout
-        android:layout_width="wrap_content"
+
+    <Button
+        android:id="@+id/play"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
-        <Button
-            android:onClick="playsound4"
-            android:layout_width="100dp"
-            android:layout_height="100dp" />
+        android:onClick="play"
+        android:text="play" />
 
-        <Button
-            android:onClick="playsound5"
-            android:layout_width="100dp"
-            android:layout_height="100dp" />
-        <Button
-            android:onClick="playsound6"
-            android:layout_width="100dp"
-            android:layout_height="100dp" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="wrap_content"
+    <Button
+        android:id="@+id/stop"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
-        <Button
-            android:onClick="playsound7"
-            android:layout_width="100dp"
-            android:layout_height="100dp" />
+        android:onClick="stop"
+        android:text="stop" />
 
-        <Button
-            android:onClick="playsound8"
-            android:layout_width="100dp"
-            android:layout_height="100dp" />
-        <Button
-            android:onClick="playsound9"
-            android:layout_width="100dp"
-            android:layout_height="100dp" />
-    </LinearLayout>
-   =
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Switch" />
+
 </LinearLayout>
 

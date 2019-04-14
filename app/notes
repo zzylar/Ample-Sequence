@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/colorPrimary"
+    android:padding="10dp"
+    android:gravity="center"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ToggleButton
+            android:id="@+id/group_1_button_1"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:onClick="playsound1"/>
+
+        <ToggleButton
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:onClick="playsound1" />
+
+        <ToggleButton
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:onClick="playsound1" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound1"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound2"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ToggleButton
+        android:onClick="playsound3"
+        android:layout_width="75dp"
+        android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound3"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound4"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound5"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ToggleButton
+        android:onClick="playsound6"
+        android:layout_width="75dp"
+        android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound6"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound7"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+        <ToggleButton
+            android:onClick="playsound8"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+
+    </LinearLayout>
+
+   <Button
+       android:onClick="playIt"
+       android:layout_width="match_parent"
+       android:layout_height="50dp" />
+
+
+</LinearLayout>
+
