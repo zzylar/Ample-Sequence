@@ -7,6 +7,7 @@ import android.os.SystemClock;
 import android.widget.ToggleButton;
 
 import static com.example.hh_drums.R.raw.sound4;
+import static com.example.hh_drums.R.raw.sound5;
 
 public class Sequencer implements Runnable{
 
@@ -17,9 +18,9 @@ public class Sequencer implements Runnable{
     private SoundPool sp;
     private Context context;
     public ToggleButton [] buttons;
+    public Instrument [] instruments;
+    int [] sounds;
     public int sound;
-
-
 
 
 
@@ -37,6 +38,21 @@ public class Sequencer implements Runnable{
         this.sp = sp;
 
     }
+    public Sequencer(Context ctx, SoundPool sp, Instrument [] instruments) {
+        this.buttons = buttons;
+        this.tempo = 128;
+        this.sp = sp;
+        this.instruments = instruments;
+    }
+
+    public Sequencer(Context ctx, SoundPool sp, Instrument [] instruments, int [] sounds) {
+        this.buttons = buttons;
+        this.tempo = 128;
+        this.sp = sp;
+        this.instruments = instruments;
+        this.sounds = sounds;
+
+    }
 
    public void setTempo(int tempo) {
         this.tempo = tempo;
@@ -50,25 +66,28 @@ public class Sequencer implements Runnable{
 
    }
 
-   public void startSequence(ToggleButton [] buttons, int sound) {
+   public void startSequence(Instrument [] instruments) {
        while(playing == true) {
            for (int i = 0; i < 16; i++) {
-               try {
-                   if(buttons[i].isChecked()) {
-                       sp.play(sound, 1.0f, 1.0f, 0, 0, 1.0f);
+               for(int j = 0; j < instruments.length; j++) {
+                   if (instruments[j].getButtonAt(i).isChecked()) {
+                       sp.play(instruments[j].getSound(), 1.0f, 1.0f, 0, 0, 1.0f);
                    }
-                   Thread.sleep(((1000 * 60) / this.tempo)/4);
+               }
+               try {
+                   Thread.sleep(((1000 * 60) / this.tempo) / 4);
                    System.out.println(i);
                } catch (InterruptedException e) {
                    e.printStackTrace();
                }
            }
+
        }
    }
 
 
     @Override
     public void run() {
-        startSequence(buttons, this.sound);
+        startSequence(this.instruments);
     }
 }
