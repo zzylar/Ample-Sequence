@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private int sound2;
     private int sound3;
     private int sound4;
-    public static int sound5;
+    private int sound5;
     private int sound6;
     private int sound7;
     private int sound8;
