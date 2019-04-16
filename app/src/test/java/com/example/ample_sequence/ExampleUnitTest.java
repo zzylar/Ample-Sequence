@@ -1,4 +1,4 @@
-package com.example.hh_drums;
+package com.example.ample_sequence;
 
 import org.junit.Test;
 

@@ -1,16 +1,11 @@
-package com.example.hh_drums;
+package com.example.ample_sequence;
 
-import android.annotation.SuppressLint;
-import android.graphics.Color;
 import android.media.AudioManager;
 import android.media.SoundPool;
-import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ToggleButton;
-
-import static java.lang.Thread.*;
 
 public class MainActivity extends AppCompatActivity {
 

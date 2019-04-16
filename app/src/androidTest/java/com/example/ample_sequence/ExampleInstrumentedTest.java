@@ -1,4 +1,4 @@
-package com.example.hh_drums;
+package com.example.ample_sequence;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

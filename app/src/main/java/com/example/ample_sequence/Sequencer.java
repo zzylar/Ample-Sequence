@@ -1,13 +1,8 @@
-package com.example.hh_drums;
+package com.example.ample_sequence;
 
 import android.content.Context;
-import android.media.AudioManager;
 import android.media.SoundPool;
-import android.os.SystemClock;
 import android.widget.ToggleButton;
-
-import static com.example.hh_drums.R.raw.sound4;
-import static com.example.hh_drums.R.raw.sound5;
 
 public class Sequencer implements Runnable{
 
