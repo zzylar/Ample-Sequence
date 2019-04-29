@@ -61,12 +61,13 @@ public class Sequencer implements Runnable{
 
    }
 
-   public void startSequence(Instrument [] instruments) {
-       while(playing == true) {
+   private void startSequence(Instrument[] instruments) {
+       while(playing) {
            for (int i = 0; i < 16; i++) {
                for(int j = 0; j < instruments.length; j++) {
                    if (instruments[j].getButtonAt(i).isChecked()) {
-                       sp.play(instruments[j].getSound(), 1.0f, 1.0f, 0, 0, 1.0f);
+                       sp.play(instruments[j].getSound(), 1.0f,
+                               1.0f, 0, 0, 1.0f);
                    }
                }
                try {
